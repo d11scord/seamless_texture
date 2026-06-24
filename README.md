@@ -31,7 +31,7 @@ python cli.py texture.png --method lattice # форсировать конкре
 Для сеток метрика завышена самими линиями затирки — там результат оценивается глазами.
 
 ![камень](examples/results/stone_grid_seamless.png)
-![ёлочка](examples\results\herringbone_seamless.png)
+![ёлочка](examples/results/herringbone_seamless.png)
 ![тёмное дерево](examples/results/dark_wood_seamless.png)
 ![светлое дерево](examples/results/grey_wood_seamless.png)
 
